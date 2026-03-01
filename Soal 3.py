@@ -20,3 +20,4 @@ try:
         print("Bulan tidak valid")
 except:
     print("Masukkan bulan harus berbentuk angka")
+    

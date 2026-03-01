@@ -8,3 +8,4 @@ if angka2 < angka1 and angka2 < angka3:
     print("Terkecil: ", angka2)
 if angka3 < angka1 and angka3 < angka2:
     print("Terkecil: ", angka3)
+    
